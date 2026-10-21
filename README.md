@@ -1,26 +1,39 @@
-# python-learning-journey
-My daily Python learning journey with FreeCodeCamp, LeetCode, and mini projects.
+# Learning Journey 🚀
 
-## Day 16 – HTML Fundamentals
+This repository is a collection of my daily coding practice, learning exercises, and projects as I develop my programming skills.
 
-### Completed
-- Completed Build a Cat Photo App (42/42 steps)
-- Built my first HTML Recipe Page
-- Passed all Recipe Page tests (25/25)
+I use this space to document what I learn, practise concepts through code, experiment with new technologies, and track my growth as a developer. Each update reflects the work I've completed and the knowledge I've gained along the way.
 
-### Concepts Learned
-- HTML Boilerplate
-- HTML Elements
-- HTML Attributes
-- Headings & Paragraphs
-- Images
-- Hyperlinks
-- Ordered Lists
-- Unordered Lists
-- List Items
-- Figure & Figcaption
-- HTML Nesting
-- Semantic HTML Basics
+## 🎯 Purpose
 
-### Key Takeaway
-Building projects helped me understand HTML better than simply reading about tags. Writing code, making mistakes, and fixing them made the concepts stick.
+- Practise programming and strengthen problem-solving skills.
+- Learn and apply concepts through hands-on exercises.
+- Build small projects to turn theoretical knowledge into practical experience.
+- Track my learning through regular GitHub commits.
+- Explore technologies relevant to software development and Data Engineering.
+
+## 🛠️ Technologies I'm Learning
+
+- Python
+- SQL
+- HTML & CSS
+- Git & GitHub
+- Data Analysis and related technologies
+
+*This list will evolve as I explore new concepts and technologies.*
+
+## 📂 What You'll Find Here
+
+- Coding exercises and practice problems
+- Learning notes and examples
+- Mini-projects and experiments
+- Code written while exploring new concepts
+- Updates reflecting my ongoing learning
+
+## 🌱 My Approach
+
+Learn → Practise → Build → Review → Improve
+
+I believe consistent practice and hands-on experience are essential to becoming a better developer. This repository serves as a record of that process, including the challenges I encounter and the progress I make.
+
+**One repository. Continuous learning. Practical growth.**
